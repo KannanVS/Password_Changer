@@ -1,0 +1,22 @@
+{
+  "name": "password_changer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KannanVS/Password_Changer.git"
+  },
+  "author": "Kannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KannanVS/Password_Changer/issues"
+  },
+  "homepage": "https://github.com/KannanVS/Password_Changer#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
