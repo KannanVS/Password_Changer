@@ -1,4 +1,12 @@
 {
-    "username": "abcd",
-    "password": "This is the password"
+    "username": "#react-root > section > main > article > div.rgFsT > div:nth-child(1) > div > form > div:nth-child(2) > div > label > input",
+    "password": "#react-root > section > main > article > div.rgFsT > div:nth-child(1) > div > form > div:nth-child(3) > div > label > input",
+    "logIn": "#react-root > section > main > article > div.rgFsT > div:nth-child(1) > div > form > div:nth-child(4) > button > div",
+    "profile": "#react-root > section > main > section > div.COOzN.MnWb5.YT6rB > div.m0NAq.xrWdL > div > div._0v2O4.StX70 > div.SKguc > a",
+    "setting": "#react-root > section > main > div > header > section > div.nZSzR > div.AFWDX > button > svg",
+    "change_password": "body > div.RnEpo.Yx5HN > div > div > div > button:nth-child(1)",
+    "old_password": "#cppOldPassword",
+    "new_password": "#cppNewPassword",
+    "confirm_password": "#cppConfirmPassword",
+    "change": "#react-root > section > main > div > article > form > div:nth-child(4) > div > div > button"
 }
